@@ -6,7 +6,6 @@ CloudFormation works by defining your AWS resources in a structured text file in
 
 To manage your resources you amend your CloudFormation template and update it, which will execute the changes to the resources in your stack.
 
-When you make changes, CloudFormation tracks the template and executes the changes or optionally creates a “Change Set” for approval.
 
 # Setup
 
